@@ -1,16 +1,191 @@
 [
   {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "You will be analysing the EPIWATCH dataset.\nEPIWATCH is an AI-based system that harnesses open-source data to generate automated early warnings of epidemics worldwide. The system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated non-curated online news sources, including the WHO, CDC and Google News.\nEach record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original article.\nYou can learn more about EPIWATCH at epiwatch.org/products and read about the potential for AI-based digital surveillance to act as automated early warning systems in MacIntyre et al. (2023)."
+  },
+  {
+    "objectID": "data.html#data-access-and-updates",
+    "href": "data.html#data-access-and-updates",
+    "title": "Data",
+    "section": "Data access and updates",
+    "text": "Data access and updates\nThe EPIWATCH data can be downloaded from this link XXX. To simulate the experience of real-time surveillance, the dataset will be updated with an additional day of data every 5 minutes from 12:30 to 14:00 during day 2 of the datathon."
+  },
+  {
+    "objectID": "code-of-conduct.html",
+    "href": "code-of-conduct.html",
+    "title": "Code of conduct",
+    "section": "",
+    "text": "The organisers of the UNSw Faculty of Medicine and Health Datathon are committed to providing a event that is welcoming and safe for all participants, is free from discrimination and harassment, and where all participants are treated with dignity and respect. Adherence to this Code of Conduct is a requirement for all event participants, and covers all aspects of the datathon, including online and in-person spaces, the pre-event online information session, the datathon event, any social events and all communication, including that via email or social media associated with the event. Unacceptable behaviour includes, but is not limited to:\n\nHarassment, including verbal comments relating to gender, sexual orientation, disability, race, ethnicity, religion, age, national origin, gender identity or expression, or physical appearance.\nInappropriate and/or unwanted physical contact.\nUnwelcome sexual attention, which can include inappropriate questions, jokes, or comments of a sexual nature or repeatedly asking for dates or contact information.\nUnwanted photography or recording.\nDiscriminatory or sexual images in public spaces.\nSustained or wilful disruption of talks or other events.\n\nTo report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour.\n\n\n\n\n\n\nCode of Conduct Response Team\n\n\n\n\nDr Sanja Lujic, Senior Lecturer, Centre for Big Data Research in Health, UNSW Sydney s.lujic@unsw.edu.au.\nDr Oscar Perez Concha, Senior Lecturer, Centre for Big Data Research in Health, UNSW Sydney o.perezconcha@unsw.edu.au.\n\n\n\nIf an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removal of the individual from the event. Reports of unacceptable behaviour may be communicated to UNSW Sydney.\nAll efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if the Code of Conduct Response Team deems it necessary for the safety of event attendees, action will be taken, including referral of the report to UNSW Sydney.\nThis Code of Conduct is designed to ensure that this event can be enjoyed by all participants. We hope you have an inspiring and enjoyable time.\n\n\n\n\n\n\nNote\n\n\n\nThis code of conduct has been adapted from the Statistical Society of Australia (SSA) Code of Conduct template.\nUNSW Sydney students should also be aware of the Student Code of Conduct in particular the sections pertaining to plagiarism. If you use code or other intellectual property as part of your datathon submission, the earlier work should be clearly referenced, just as you would do for an assessment.\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "hds-datathon-2024",
+    "title": "",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Can you predict the next pandemic?\n\n\nHealth Data Science Datathon 2025 | UNSW Faculty of Medicine and Health"
+  },
+  {
+    "objectID": "index.html#what-is-it",
+    "href": "index.html#what-is-it",
+    "title": "",
+    "section": "What is it?",
+    "text": "What is it?\nA two-day datathon where teams will work together to analyse a HIV medications dataset. Participants will develop a full data science pipeline—from research question to analytic output—with prizes awarded for the best submission."
+  },
+  {
+    "objectID": "index.html#when-is-it",
+    "href": "index.html#when-is-it",
+    "title": "",
+    "section": "When is it?",
+    "text": "When is it?\n\nFriday 29 November, 3pm-5pm: Online introductory session\n\nRecordings will be made available for people who can’t make this session, although attendance is strongly encouraged\n\nThursday 5th – Friday 6th December Main event"
+  },
+  {
+    "objectID": "index.html#who-can-participate",
+    "href": "index.html#who-can-participate",
+    "title": "",
+    "section": "Who can participate?",
+    "text": "Who can participate?\n\nUNSW Faculty of Medicine and Health postgraduate students"
+  },
+  {
+    "objectID": "index.html#is-it-online-or-in-person",
+    "href": "index.html#is-it-online-or-in-person",
+    "title": "",
+    "section": "Is it online or in-person?",
+    "text": "Is it online or in-person?\nThe event will be in-person at UNSW, however there is also capacity for a limited number of online teams to compete, for those who wish to participate but can not make it to campus. The EOI form (linked below) includes an option to indicate whether you wish to attend online or in-person.\nA limited number of travel bursaries of up to $300 are available to support participants who wish to attend the event but are travelling from outside of Sydney. The EOI form (linked below) includes an option to indicate whether you wish to apply for a travel bursary. Applicants will be asked to provide their enrolment status and the destination from where they will be travelling from."
+  },
+  {
+    "objectID": "index.html#where-is-it",
+    "href": "index.html#where-is-it",
+    "title": "",
+    "section": "Where is it?",
+    "text": "Where is it?\nThe UNSW Kensington Campus, Electrical Engineering Building (K-G17), Room G03\n\n\nMap by MazeMap\nRoom G03 is wheelchair accessible and ventilated with air conditioning. More information is available online here.\nSee the UNSW website for more information on how to get to and from campus: inside.unsw.edu.au/campus-life/travel-options-get-and-unsw"
+  },
+  {
+    "objectID": "index.html#the-data",
+    "href": "index.html#the-data",
+    "title": "",
+    "section": "The data",
+    "text": "The data\nParticipants will analyse real-world data on infectious disease alerts from EPIWATCH (https://www.epiwatch.org/about), UNSW’s AI-driven open-source outbreak observatory. Founded by global leader in infectious diseases, Professor Raina MacIntyre, The EPIWATCH ‘Global Eye’ provides a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting."
+  },
+  {
+    "objectID": "index.html#the-datathon",
+    "href": "index.html#the-datathon",
+    "title": "",
+    "section": "The datathon",
+    "text": "The datathon\n\nThe online introductory session (Friday 29th November)\nThis is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential research questions. Guest experts will give introductory talks on the EPIWATCH data.\nTeam membership will be confirmed before the online introductory event and teams will be given a mini-activity to complete in the week leading up to the main event.\n\n\nThe main event (Thursday 5th and Friday 6th December)\nParticipants will work together in teams of four to propose a research question and develop and implement a data science pipeline to address the research question. There is no restriction on choice of software or type of research questions. The final product could be an interactive visualisation, a predictive analysis, a risk factor analysis, time series analysis, etc. Experts in HIV medications and data analysis will be in the room to help participants develop their research question and solution. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform.\nLunch and morning tea and coffee will be provided for in-person participants. Dietary requirements can be noted in the EOI form."
+  },
+  {
+    "objectID": "index.html#registration",
+    "href": "index.html#registration",
+    "title": "",
+    "section": "Registration",
+    "text": "Registration\nTo register, fill out the expression of interest form by Friday 7th April. You are welcome to register as a team or as an individual. All team members must complete the expression of interest form. Individual applicants will be placed on a team. Places are limited."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "",
+    "section": "Contact",
+    "text": "Contact\nFor questions, information or accessibility queries please contact Dr Oscar Perez Concha. Accessibility requirements can also be noted in the EOI form.\n\n\nMenú del día\n\n\nTo be confirmed"
+  },
+  {
+    "objectID": "review.html",
+    "href": "review.html",
+    "title": "",
+    "section": "",
+    "text": "Analysing the Antiretroviral Therapy in HIV dataset"
+  },
+  {
+    "objectID": "review.html#key-figures",
+    "href": "review.html#key-figures",
+    "title": "",
+    "section": "Key figures",
+    "text": "Key figures\n\n\n22 Students 👩‍🎓\nSix Teams 🤝\nThree Content experts 💊\nTwo Government partners 🏥\nOne winning team 🌟"
+  },
+  {
+    "objectID": "review.html#overview-of-the-event",
+    "href": "review.html#overview-of-the-event",
+    "title": "",
+    "section": "Overview of the event",
+    "text": "Overview of the event\nThe first CBDRH Health Data Science datathon took place on Friday 26th May 2023. This event saw the participation of 22 HDS students working in six teams, five on campus and one hybrid online/on-campus team. The event focused on the Antiretroviral Therapy in HIV dataset, and teams were challenged to pose a research question and develop a solution using their health context expertise and analytic skills.\n\n\n\nHealth Data Science students in action 💛  Credit: Cassandra Hannagan \n\n\nFive experts were on hand to guide the teams, aiding them in crafting and executing their research questions and proposed solutions effectively. This included applied researchers with content expertise in HIV medications and machine learning, and Health Informaticians from NSW Health Sydney Local Health District\n\n\n\nConsulting with machine learning experts. 💛  Credit: Cassandra Hannagan \n\n\nThe datathon wasn’t just about coding and data; it was also about enjoyment and camaraderie. The teams enjoyed good food and had loads of fun. The presentations from all teams were highly engaging, with everyone putting into practice the technical coding skills and health context expertise from the HDS program.\n\n\n\nStudents presenting their work 💛  Credit: Cassandra Hannagan \n\n\nThe day culminated with a prize ceremony to acknowledge the hard work from all of the teams, and of course announce the winners! The winning team’s breakthrough came from using neural networks to predict the success of current ART drug combinations for patients with HIV. The second-place team used survival analysis to answer the question, “What drug combination is most effective at achieving viral suppression?” The third team investigated the impact of Dolutegravir (DTG) as a third agent drug on time to viral suppression among active HIV patients under antiretroviral therapy (ART).\nThis event truly blended learning, collaboration, and fun, capturing the true essence of data science in an enjoyable and rewarding environment."
+  },
+  {
+    "objectID": "review.html#the-data",
+    "href": "review.html#the-data",
+    "title": "",
+    "section": "The data",
+    "text": "The data\nThe Antiretroviral Therapy in HIV dataset comprises viral loads, CD4 counts, and drug regimen information for 8,916 patients with HIV. This is a synthetic dataset that has been developed using Generative Adversarial Networks. This approach provides realistically complex data, allowing users to prototype, evaluate, and compare machine learning algorithms without the usual constraints of patient privacy.\n\n\nThe ART HIV dataset included demographic details and longitudinal clinical data on drug combinations and CD4 counts for nearly 9,000 patients. Common baseline drug regimes included tenofovir disoproxil & emtricitabine (FTC+TDF) and abacavir & lamivudine (3TC+ABC) Several of the teams choose to implement machine learning models to predict future CD4 outcomes based on previous values, demographics and treatment values."
+  },
+  {
+    "objectID": "review.html#what-our-students-said",
+    "href": "review.html#what-our-students-said",
+    "title": "",
+    "section": "What our students said",
+    "text": "What our students said\n\n\n\nBased on your experience at the datathon, would you recommend it to other students?\n\n\n\n\n\n\n\n\n100%\n\n\nDEFINATELY\n\n\n\n\n\n\n\n\nI loved getting to work with really complicated data based on real situations, loved the info sharing sessions and the support given.\n\n\n\n\n\n\n\n\n\n\n\n\nThe open-ended nature of the competition meant that we got to see different uses for the dataset. I got to meet participants from other faculties.\n\n\n\n\n\n\n\n\n\nThe actual competition day itself was very rewarding and also very fun!"
+  },
+  {
+    "objectID": "review.html#picture-gallery",
+    "href": "review.html#picture-gallery",
+    "title": "",
+    "section": "Picture gallery",
+    "text": "Picture gallery\nExplore the images from the day below. Credit for all images to Cassandra Hannagan.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysing the Antiretroviral Therapy in HIV dataset\nHealth Data Science students in action 💛  Credit: Cassandra Hannagan \nConsulting with machine learning experts. 💛  Credit: Cassandra Hannagan \nStudents presenting their work 💛  Credit: Cassandra Hannagan"
+  },
+  {
+    "objectID": "sponsor-info.html#about",
+    "href": "sponsor-info.html#about",
+    "title": "Information for sponsors",
+    "section": "About",
+    "text": "About\nThe CBDRH Health Data Science datathon is an initiative launched under the Health 25 strategy The aim of the datathon is to facilitate cross-disciplinary engagement between UNSW Medicine & Health students, government, and industry."
+  },
+  {
+    "objectID": "sponsor-info.html#what-are-the-advantages-of-being-a-sponsor",
+    "href": "sponsor-info.html#what-are-the-advantages-of-being-a-sponsor",
+    "title": "Information for sponsors",
+    "section": "What are the advantages of being a sponsor?",
+    "text": "What are the advantages of being a sponsor?\nAs an event sponsor you can\n\nPropose research questions to be addressed\nProvide datasets to be analysed\nMeet and engage ambitious and talented students to undertake a research dissertation project at your organisation"
+  },
+  {
+    "objectID": "sponsor-info.html#how-do-i-become-a-sponsor-for-future-events",
+    "href": "sponsor-info.html#how-do-i-become-a-sponsor-for-future-events",
+    "title": "Information for sponsors",
+    "section": "How do I become a sponsor for future events?",
+    "text": "How do I become a sponsor for future events?\nWe are currently inviting expressions of interests for sponsors for our 2024 datathon. To find out more about becoming a sponsor please contact Dr Oscar Perez Concha."
+  },
+  {
+    "objectID": "judging-criteria.html",
+    "href": "judging-criteria.html",
+    "title": "Judging criteria",
+    "section": "",
+    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nAnalytic approach\nSurveillance quality\nCommunicating results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nAnalytic approach\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nSurveillance quality\n⅓\n\nTimely response to outbreaks in new data\nSpecific to location and disease\nNo false alarms\n\n\n\nCommunicating results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nTranslation potential\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Note\n\n\n\nThe schedule is subject to change. A Microsoft Teams Meeting link will be circulated in advance of both sessions."
+  },
+  {
+    "objectID": "schedule.html#online-information-session-online-only",
+    "href": "schedule.html#online-information-session-online-only",
+    "title": "Schedule",
+    "section": "Online information session (Online only)",
+    "text": "Online information session (Online only)\nFriday 29 November, 2024: 15:00 - 16:00 AEST\n\n\n\n\n\n\n\n15:00 - 15:10\nWelcome and introductions (Dr Oscar Perez Concha, CBDRH)\n\n\n15:10 - 15:35\nThe EPIWATCH data\n\n\n15:35 - 15:45\nDatathon rules and plan for the day (Dr Oscar Perez Concha, CBDRH)\n\n\n15:45 - 17:00\nQuestions"
+  },
+  {
+    "objectID": "schedule.html#datathon-hybrid",
+    "href": "schedule.html#datathon-hybrid",
+    "title": "Schedule",
+    "section": "Datathon (Hybrid)",
+    "text": "Datathon (Hybrid)\nDay 1: Thursday 5 December 2024\n\n\n\n08:30 - 09:00\nRegistration\n\n\n09:00 - 09:30\nWelcome and introduction to domain experts\n\n\n09:00 - 12:00\nTeams work on project\n\n\n12:30 - 13:00\nLunch\n\n\n13:00 - 17:00\nTeams work on project\n\n\n17:00 - 19:00\nSocial at the Roundhouse\n\n\n\n\nDay 2: Friday 6 December 2024\n\n\n\n\n\n\n\n09:00 - 12:30\nTeams work on project\n\n\n12:00 - 12:30\nLunch\n\n\n12:30 - 14:00\nReal-time surveillance simulation\n\n\n14:00 - 16:00\nPresentations (7 mins presentation + 3 mins questions per team)\n\n\n16:00 - 16:30\nJury deliberation and drinks reception\n\n\n16:30 - 17:00\nAwards and closing"
   }
 ]

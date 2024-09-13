@@ -1,0 +1,38 @@
+/*-- scss:functions --*/
+
+
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.flex-column {
+  flex: 1;
+}
+
+.larger-text {
+  font-size: 2.5em;
+  font-weight: 800;
+  line-height: 1.2;
+  color: $link-color;
+  align-items: center;
+}
+
+.subtitle-text {
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 1.2;
+  color: lighten($link-color, 30%);
+}
+
+/* Media query for narrow screens */
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+

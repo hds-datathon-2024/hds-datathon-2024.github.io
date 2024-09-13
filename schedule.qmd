@@ -1,0 +1,47 @@
+---
+title: "Schedule"
+---
+
+::: {.callout-note}
+## Note
+
+The schedule is subject to change. A Microsoft Teams Meeting link will be circulated in advance of both sessions.
+:::
+
+
+## Online information session (Online only)
+
+*Friday 29 November, 2024: 15:00 - 16:00 AEST*
+
+|     |     |
+|--|-----|
+| 15:00 - 15:10    | Welcome and introductions (Dr Oscar Perez Concha, CBDRH)     |
+| 15:10 - 15:35    | The EPIWATCH data |
+| 15:35 - 15:45    | Datathon rules and plan for the day (Dr Oscar Perez Concha, CBDRH) |
+| 15:45 - 17:00    | Questions  |
+
+## Datathon (Hybrid)
+
+*Day 1: Thursday 5 December 2024*
+
+|  |     |
+|--|-----|
+| 08:30 - 09:00    | Registration     |
+| 09:00 - 09:30    | Welcome and introduction to domain experts |
+| 09:00 - 12:00    | Teams work on project |
+| 12:30 - 13:00    | Lunch |
+| 13:00 - 17:00    | Teams work on project |
+| 17:00 - 19:00    | Social at the Roundhouse |
+
+<br>
+
+*Day 2: Friday 6 December 2024*
+
+|  |     |
+|--|-----|
+| 09:00 - 12:30    | Teams work on project     |
+| 12:00 - 12:30    | Lunch |
+| 12:30 - 14:00    | Real-time surveillance simulation |
+| 14:00 - 16:00    | Presentations (7 mins presentation + 3 mins questions per team) |
+| 16:00 - 16:30    | Jury deliberation and drinks reception |
+| 16:30 - 17:00    | Awards and closing |

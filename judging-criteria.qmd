@@ -1,0 +1,27 @@
+---
+title: "Judging criteria"
+---
+
+Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:
+
+1. Analytic approach
+1. Surveillance quality
+1. Communicating results
+
+The table below breaks down some of the things you should consider for each domain.
+
++------------------------+--------+---------------------------------------------------+
+| Domain                 | Weight | Things to consider                                |
++========================+========+===================================================+
+| Analytic approach      | ⅓      | - Data cleaning and preparation                   |
+|                        |        | - Choice and implementation of analytic method    |
+|                        |        | - Code and reproducibility                        |
++------------------------+--------+---------------------------------------------------+
+| Surveillance quality   | ⅓      | - Timely response to outbreaks in new data        |
+|                        |        | - Specific to location and disease                |
+|                        |        | - No false alarms                                 |
++------------------------+--------+---------------------------------------------------+
+| Communicating results  | ⅓      | - Presentation of results (tables/visualisations) |
+|                        |        | - Oral presentation                               |
+|                        |        | - Translation potential                           |
++------------------------+--------+---------------------------------------------------+

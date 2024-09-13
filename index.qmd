@@ -1,11 +1,92 @@
----
-title: "hds-datathon-2024"
----
+:::::{.flex-container}
 
-This is a Quarto website.
+:::: {.flex-column}
+::: {.larger-text}
+Can you predict the next pandemic? 
+:::
+::: {.subtitle-text}
+Health Data Science Datathon 2025 | UNSW Faculty of Medicine and Health
+:::
+::::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::: {.flex-column}
+<img src="images/mask.jpg" style="max-width: 100%;">
+::::
 
-```{r}
-1 + 1
-```
+:::::
+
+
+
+
+## What is it?
+
+A two-day datathon where teams will work together to analyse a HIV medications dataset. Participants will develop a full data science pipeline---from research question to analytic output---with prizes awarded for the best submission. 
+
+## When is it?
+
+-   **Friday 29 November**, 3pm-5pm: Online introductory session
+<div style = "font-size: 0.8em; font-weight:100;">
+_Recordings will be made available for people who can't make this session, although attendance is strongly encouraged_
+</div>
+
+- **Thursday 5th -- Friday 6th December** Main event
+
+
+
+
+## Who can participate?
+
+* UNSW Faculty of Medicine and Health postgraduate students 
+
+## Is it online or in-person?
+
+The event will be in-person at UNSW, however there is also capacity for a limited number of online teams to compete, for those who wish to participate but can not make it to campus. The EOI form (linked below) includes an option to indicate whether you wish to attend online or in-person. 
+
+A limited number of travel bursaries of up to $300 are available to support participants who wish to attend the event but are travelling from outside of Sydney. The EOI form (linked below) includes an option to indicate whether you wish to apply for a travel bursary. Applicants will be asked to provide their enrolment status and the destination from where they will be travelling from.  
+
+## Where is it?
+
+The UNSW Kensington Campus, [Electrical Engineering Building (K-G17)](https://www.learningenvironments.unsw.edu.au/physical-spaces/electrical-engineering-bldg), Room G03
+
+<iframe width="100%" height="500px" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://use.mazemap.com/embed.html#v=1&config=unsw&zlevel=1&center=151.231616,-33.917484&zoom=17&campusid=111&sharepoitype=poi&sharepoi=1000919795&utm_medium=iframe" allow="geolocation"></iframe>
+<a href="https://www.mazemap.com/">Map by MazeMap</a>
+
+Room G03 is wheelchair accessible and ventilated with air conditioning. More information is available online [here](https://www.learningenvironments.unsw.edu.au/physical-spaces/electrical-engineering-bldg/k-g17-g03-electrical-engineering-g03).
+
+See the UNSW website for more information on how to get to and from campus: [inside.unsw.edu.au/campus-life/travel-options-get-and-unsw](https://www.inside.unsw.edu.au/campus-life/travel-options-get-and-unsw) 
+
+	
+## The data
+
+Participants will analyse real-world data on infectious disease alerts from EPIWATCH (https://www.epiwatch.org/about), UNSW’s AI-driven open-source outbreak observatory. Founded by global leader in infectious diseases, Professor Raina MacIntyre, The EPIWATCH ‘Global Eye’ provides a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting. 
+
+## The datathon
+
+### The online introductory session (Friday 29th November)
+
+This is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential research questions. Guest experts will give introductory talks on the EPIWATCH data.  
+
+Team membership will be confirmed before the online introductory event and teams will be given a mini-activity to complete in the week leading up to the main event. 
+
+
+### The main event (Thursday 5th and Friday 6th December)
+
+Participants will work together in teams of four to propose a research question and develop and implement a data science pipeline to address the research question. There is no restriction on choice of software or type of research questions. The final product could be an interactive visualisation, a predictive analysis, a risk factor analysis, time series analysis, etc. Experts in HIV medications and data analysis will be in the room to help participants develop their research question and solution. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform. 
+
+Lunch and morning tea and coffee will be provided for in-person participants. Dietary requirements can be noted in the EOI form. 
+
+## Registration
+
+To register, fill out the [expression of interest form](google.com) by **Friday 7th April**. You are welcome to register as a team or as an individual. All team members must complete the expression of interest form. Individual applicants will be placed on a team. Places are limited.
+
+## Contact
+
+For questions, information or accessibility queries please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a>. Accessibility requirements can also be noted in the EOI form. 
+
+::: {.oscar}
+
+<h2>Menú del día</h2>
+<p>To be confirmed</p>
+
+:::
+

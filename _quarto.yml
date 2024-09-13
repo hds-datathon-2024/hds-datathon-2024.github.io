@@ -3,18 +3,46 @@ project:
   output-dir: docs
 
 website:
-  title: "hds-datathon-2024"
+  title: ""
+  back-to-top-navigation: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+        icon: house
+      - text: Schedule
+        icon: clock
+        href: schedule.qmd
+      - text: Data
+        icon: code
+        href: data.qmd
+      - text: Judging Criteria
+        icon: trophy
+        href: judging-criteria.qmd
+      - text: Code of conduct
+        icon: heart
+        href: code-of-conduct.qmd
+      - text: Past datathons
+        icon: calendar2-heart
+        menu:
+          - text: '2023'
+            icon: capsule-pill
+            href: review.qmd
+    right:
+      - text: Information for sponsors
+        icon: info-circle
+        href: sponsor-info.qmd
+
+  page-footer:
+    center: © UNSW 2024
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [cyborg, custom.scss]
     toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+    footnotes-hover: true
 
 
 
