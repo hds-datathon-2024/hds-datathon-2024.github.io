@@ -2,7 +2,7 @@
 title: "Judging criteria"
 ---
 
-<video autoplay loop muted width="100%" style="border-radius: 5px;">
+<video autoplay loop muted playsinline width="100%" style="border-radius: 5px;">
  <source src="images/AdobeStock_321325207.mov" style="max-width: 100%;"></source>
 </video>
 
