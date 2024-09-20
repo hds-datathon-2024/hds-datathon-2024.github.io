@@ -4,7 +4,7 @@
     "href": "data.html",
     "title": "Data",
     "section": "",
-    "text": "You will be analysing the EPIWATCH dataset.\nEPIWATCH is an AI-based system that harnesses open-source data to generate automated early warnings of epidemics worldwide. The system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated non-curated online news sources, including the WHO, CDC and Google News.\nEach record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original article.\nYou can learn more about EPIWATCH at epiwatch.org/products and read about the potential for AI-based digital surveillance to act as automated early warning systems in MacIntyre et al. (2023)."
+    "text": "You will be analysing the EPIWATCH dataset.\nEPIWATCH is an AI-based system that harnesses open-source data to generate automated early warnings of epidemics worldwide. The system provides near real-time monitoring for a range of infectious diseases and syndromes by scanning multiple curated and non-curated online news sources, including the WHO, CDC and Google News.\nEach record in the dataset represents a news article mentioning an infectious disease or syndrome. Minimum data includes the disease or syndrome(s) in question, the timing and location of the report, as well as the title and link to original online article.\nYou can learn more about EPIWATCH at epiwatch.org/products and read about the potential for AI-based digital surveillance to act as automated early warning systems in MacIntyre et al. (2023)."
   },
   {
     "objectID": "data.html#data-access-and-updates",
@@ -32,28 +32,28 @@
     "href": "index.html#what-is-it",
     "title": "",
     "section": "What is it?",
-    "text": "What is it?\nA two-day datathon where teams will work together to analyse a HIV medications dataset. Participants will develop a full data science pipeline—from research question to analytic output—with prizes awarded for the best submission."
+    "text": "What is it?\nA two-day datathon where teams will work together to analyse real-world infectious disease monitoring data. Participants will develop a full data science pipeline with prizes awarded for the best submission."
   },
   {
     "objectID": "index.html#when-is-it",
     "href": "index.html#when-is-it",
     "title": "",
     "section": "When is it?",
-    "text": "When is it?\n\nFriday 29 November, 3pm-5pm: Online introductory session\n\nRecordings will be made available for people who can’t make this session, although attendance is strongly encouraged\n\nThursday 5th – Friday 6th December Main event"
+    "text": "When is it?\n\nFriday 29 November, 3pm-4pm: Online introductory session\n\nRecordings will be made available for people who can’t make this session, although attendance is strongly encouraged\n\nThursday 5th and Friday 6th December, 9AM–5PM: Main event"
   },
   {
     "objectID": "index.html#who-can-participate",
     "href": "index.html#who-can-participate",
     "title": "",
     "section": "Who can participate?",
-    "text": "Who can participate?\n\nUNSW Faculty of Medicine and Health postgraduate students"
+    "text": "Who can participate?\n\nUNSW Faculty of Medicine and Health students interested in analysing health data."
   },
   {
     "objectID": "index.html#is-it-online-or-in-person",
     "href": "index.html#is-it-online-or-in-person",
     "title": "",
     "section": "Is it online or in-person?",
-    "text": "Is it online or in-person?\nThe event will be in-person at UNSW, however there is also capacity for a limited number of online teams to compete, for those who wish to participate but can not make it to campus. The EOI form (linked below) includes an option to indicate whether you wish to attend online or in-person.\nA limited number of travel bursaries of up to $300 are available to support participants who wish to attend the event but are travelling from outside of Sydney. The EOI form (linked below) includes an option to indicate whether you wish to apply for a travel bursary. Applicants will be asked to provide their enrolment status and the destination from where they will be travelling from."
+    "text": "Is it online or in-person?\nThe event will be in-person at UNSW, however there is also capacity for a limited number of online teams to compete, for those who wish to participate but can not make it to campus. The registration form (linked below) includes an option to indicate whether you wish to attend online or in-person.\nA limited number of travel bursaries of up to $300 are available to support participants who wish to attend the event but are travelling from outside of Sydney. The registration form (linked below) includes an option to indicate whether you wish to apply for a travel bursary. Applicants will be asked to provide their enrolment status and the destination from where they will be travelling from."
   },
   {
     "objectID": "index.html#where-is-it",
@@ -67,28 +67,28 @@
     "href": "index.html#the-data",
     "title": "",
     "section": "The data",
-    "text": "The data\nParticipants will analyse real-world data on infectious disease alerts from EPIWATCH (https://www.epiwatch.org/about), UNSW’s AI-driven open-source outbreak observatory. Founded by global leader in infectious diseases, Professor Raina MacIntyre, The EPIWATCH ‘Global Eye’ provides a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting."
+    "text": "The data\nParticipants will analyse real-world data on infectious disease alerts from EPIWATCH, UNSW’s AI-driven open-source outbreak observatory. Founded by global leader in infectious diseases, Professor Raina MacIntyre, EPIWATCH provides a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting."
   },
   {
     "objectID": "index.html#the-datathon",
     "href": "index.html#the-datathon",
     "title": "",
     "section": "The datathon",
-    "text": "The datathon\n\nThe online introductory session (Friday 29th November)\nThis is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential research questions. Guest experts will give introductory talks on the EPIWATCH data.\nTeam membership will be confirmed before the online introductory event and teams will be given a mini-activity to complete in the week leading up to the main event.\n\n\nThe main event (Thursday 5th and Friday 6th December)\nParticipants will work together in teams of four to propose a research question and develop and implement a data science pipeline to address the research question. There is no restriction on choice of software or type of research questions. The final product could be an interactive visualisation, a predictive analysis, a risk factor analysis, time series analysis, etc. Experts in HIV medications and data analysis will be in the room to help participants develop their research question and solution. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform.\nLunch and morning tea and coffee will be provided for in-person participants. Dietary requirements can be noted in the EOI form."
+    "text": "The datathon\n\nTo emulate real-time surveillance we will release daily data in 15 minute increments: your aim is to notify authorities of the next outbreak before it gets out of control.\n\n\nThe online introductory session (Friday 29th November)\nThis is a chance to start interacting with your team, learn a bit more about the dataset and start thinking about potential research questions. Guest experts will give introductory talks on the EPIWATCH data.\nTeam membership will be confirmed before the online introductory event and teams will be given a mini-activity to complete in the week leading up to the main event.\n\n\nThe main event (Thursday 5th and Friday 6th December)\nParticipants will work together in teams of 4-5 to develop and implement a data science pipeline to analyse the EPIWATCH data with the aim of predicting infectious disease outbreaks. Your approach could be a statistical or machine learning model, a data visualisation, or even a dashboard combining multiple insights. On the second day you will have a chance to test your approach on new data. To emulate real-time surveillance we will release daily data in 15 minute increments: your aim is to notify authorities of the next outbreak before it gets out of control. There is no restriction on choice of software or analytic approach. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform.\nLunch and morning tea and coffee will be provided for in-person participants. Dietary requirements can be noted in the registration form."
   },
   {
     "objectID": "index.html#registration",
     "href": "index.html#registration",
     "title": "",
     "section": "Registration",
-    "text": "Registration\nTo register, fill out the expression of interest form by Friday 7th April. You are welcome to register as a team or as an individual. All team members must complete the expression of interest form. Individual applicants will be placed on a team. Places are limited."
+    "text": "Registration\nRegistration is via Eventbrite by DATE TBC. You are welcome to register as a team or as an individual. All team members must complete the expression of interest form. Individual applicants will be placed on a team. Places are limited."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "",
     "section": "Contact",
-    "text": "Contact\nFor questions, information or accessibility queries please contact Dr Oscar Perez Concha. Accessibility requirements can also be noted in the EOI form.\n\n\nMenú del día\n\n\nTo be confirmed"
+    "text": "Contact\nFor questions, information or accessibility queries please contact Dr Oscar Perez Concha. Accessibility requirements can also be noted in the registration form.\n\n\nMenú del día\n\n\nGambas Pil Pil\nPatatas Bravas\nHelados"
   },
   {
     "objectID": "review.html",
@@ -158,7 +158,7 @@
     "href": "judging-criteria.html",
     "title": "Judging criteria",
     "section": "",
-    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nAnalytic approach\nSurveillance quality\nCommunicating results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\nDomain\nWeight\nThings to consider\n\n\n\n\nAnalytic approach\n⅓\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\nSurveillance quality\n⅓\n\nTimely response to outbreaks in new data\nSpecific to location and disease\nNo false alarms\n\n\n\nCommunicating results\n⅓\n\nPresentation of results (tables/visualisations)\nOral presentation\nTranslation potential\n\n\n\n\n\n\n\n Back to top"
+    "text": "Your submission will be judged on three criteria that reflect different aspects of a complete health data science analysis pipeline:\n\nAnalytic approach\nSurveillance quality\nCommunication of results\n\nThe table below breaks down some of the things you should consider for each domain.\n\n\n\n\n\n\n\n\n\nDomain\nAnalytic approach\nWeight\n⅓\nThings to consider\n\nData cleaning and preparation\nChoice and implementation of analytic method\nCode and reproducibility\n\n\n\n\n\n\n\nSurveillance quality\n⅓\n\nTimely response to outbreaks in new data\nSpecific to location and disease\nNo false alarms\n\n\n\n\nCommunication of results | ⅓ | - Presentation of results (tables/visualisations) | | - Oral presentation | | | - Translation potential |\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -187,5 +187,12 @@
     "title": "Schedule",
     "section": "Datathon (Hybrid)",
     "text": "Datathon (Hybrid)\nDay 1: Thursday 5 December 2024\n\n\n\n08:30 - 09:00\nRegistration\n\n\n09:00 - 09:30\nWelcome and introduction to domain experts\n\n\n09:00 - 12:00\nTeams work on project\n\n\n12:30 - 13:00\nLunch\n\n\n13:00 - 17:00\nTeams work on project\n\n\n17:00 - 19:00\nSocial at the Roundhouse\n\n\n\n\nDay 2: Friday 6 December 2024\n\n\n\n\n\n\n\n09:00 - 12:30\nTeams work on project\n\n\n12:00 - 12:30\nLunch\n\n\n12:30 - 14:00\nReal-time surveillance simulation\n\n\n14:00 - 16:00\nPresentations (7 mins presentation + 3 mins questions per team)\n\n\n16:00 - 16:30\nJury deliberation and drinks reception\n\n\n16:30 - 17:00\nAwards and closing"
+  },
+  {
+    "objectID": "data.html#initial-data-release",
+    "href": "data.html#initial-data-release",
+    "title": "Data",
+    "section": "Initial data release",
+    "text": "Initial data release\nThe EPIWATCH data can be downloaded from this link XXX. To simulate the experience of real-time surveillance, the dataset will be updated with an additional day of data every 5 minutes from 12:30 to 14:00 during day 2 of the datathon."
   }
 ]
