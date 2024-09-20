@@ -9,7 +9,7 @@ The schedule is subject to change. A Microsoft Teams Meeting link will be circul
 :::
 
 
-## Online information session (Online only)
+## Pre-event: data release and online information session (Online only)
 
 *Friday 29 November, 2024: 15:00 - 16:00 AEST*
 
@@ -20,9 +20,9 @@ The schedule is subject to change. A Microsoft Teams Meeting link will be circul
 | 15:35 - 15:45    | Datathon rules and plan for the day (Dr Oscar Perez Concha, CBDRH) |
 | 15:45 - 17:00    | Questions  |
 
-## Datathon (Hybrid)
+## Datathon (In-person at UNSW)
 
-*Day 1: Thursday 5 December 2024*
+#### *Day 1: Thursday 5 December 2024*
 
 |  |     |
 |--|-----|
@@ -35,13 +35,13 @@ The schedule is subject to change. A Microsoft Teams Meeting link will be circul
 
 <br>
 
-*Day 2: Friday 6 December 2024*
+#### *Day 2: Friday 6 December 2024*
 
 |  |     |
 |--|-----|
-| 09:00 - 12:30    | Teams work on project     |
+| 09:00 - 12:00    | Teams work on project     |
 | 12:00 - 12:30    | Lunch |
 | 12:30 - 14:00    | Real-time surveillance simulation |
 | 14:00 - 16:00    | Presentations (7 mins presentation + 3 mins questions per team) |
 | 16:00 - 16:30    | Jury deliberation and drinks reception |
-| 16:30 - 17:00    | Awards and closing |
+| 16:30 - 17:00    | Prize-giving and closing |

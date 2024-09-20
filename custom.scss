@@ -51,11 +51,12 @@ blockquote {
 
 @keyframes colorChange {
   0% { color: $link-color; }
-  100% { color: #fe010c; }
+  50% { color: #fe010c; }
+  100% { color: $link-color; }
 }
 
 .animated-word {
-  animation: colorChange 4s infinite; /* 3s for the duration, infinite looping */
+  animation: colorChange 6s infinite; /* 3s for the duration, infinite looping */
 }
 
 .oscar {

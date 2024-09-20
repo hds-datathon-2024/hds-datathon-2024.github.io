@@ -1,8 +1,6 @@
 ---
 title: ""
-filters:
-   - lightbox
-lightbox: auto
+lightbox: true
 link-external-icon: false
 ---
 

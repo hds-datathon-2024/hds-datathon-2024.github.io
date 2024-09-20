@@ -1,8 +1,12 @@
 ---
-title: "Data"
+title: "About the data"
 bibliography: references.bib
 suppress-bibliography: true
 ---
+
+![](images/epiwatch-logo.svg)
+
+## EPIWATCH
 
 You will be analysing the [EPIWATCH](https://www.epiwatch.org/reports) dataset.
 
@@ -15,6 +19,8 @@ You can learn more about EPIWATCH at [epiwatch.org/products](https://www.epiwatc
 
 ## Initial data release
 
-The EPIWATCH data can be downloaded from this link XXX. To simulate the experience of real-time surveillance, the dataset will be updated with an additional day of data every 5 minutes from 12:30 to 14:00 during day 2 of the datathon. 
+The EPIWATCH data will be released on Friday 29th November, one week ahead of the datathon. Access the data [here](google.com) UPDATE.
 
+## Live updates
 
+To simulate the experience of real-time surveillance, the dataset will be updated with an additional day of data every 5 minutes from 12:30 to 14:00 on Day 2 of the datathon. Updates will be appended to the initial release and available via the same link.
