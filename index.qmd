@@ -4,7 +4,7 @@
 Can you predict the next <span class="animated-word">pandemic</span>? 
 :::
 ::: {.subtitle-text}
-Health Data Science Datathon 2025 | UNSW Faculty of Medicine and Health
+Health Data Science Datathon 2024 | UNSW Faculty of Medicine and Health
 :::
 
 <video autoplay loop muted playsinline width="100%" style="border-radius: 25% 25% 25% 25%;">
@@ -72,7 +72,8 @@ Lunch and morning tea and coffee will be provided for in-person participants. Di
 
 ## Registration
 
-Registration is via [Eventbrite](google.com) by <span class="animated-word">Friday 1st November</span>. You are welcome to register as a team of 4 or as an individual. All team members must register. Individual applicants will be placed on a team. Places are limited.
+Registration is via [Microsoft Teams](https://forms.office.com/r/K2RQZeb1VF) by <span class="animated-word">Friday 15th November</span>. You are welcome to register as a team of 4 or as an individual. You can still apply as a team if you don't have a full team of 4. All team members must register. Individual applicants will be grouped into teams. Places are limited.
+
 
 ## Contact
 
