@@ -6,8 +6,12 @@ website:
   title: "HDS Datathon 2024"
   image: "social-preview.png"
   favicon: images/favicon.ico
-  open-graph: true
-  twitter-card: true
+  open-graph:
+    title: "Health Data Science Datathon 2024"
+    description: "A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data."
+  twitter-card:
+    title: "Health Data Science Datathon 2024"
+    description: "A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data."
   site-url: https://hds-datathon-2024.github.io
   repo-url: https://github.com/hds-datathon-2024
   back-to-top-navigation: true
