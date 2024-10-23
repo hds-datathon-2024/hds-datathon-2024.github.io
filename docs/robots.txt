@@ -1,1 +1,1 @@
-Sitemap: https://hds-hub.cbdrh.med.unsw.edu.au/sitemap.xml
+Sitemap: https://hds-datathon-2024.github.io/sitemap.xml
