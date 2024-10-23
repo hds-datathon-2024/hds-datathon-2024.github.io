@@ -3,15 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  title: "HDS Datathon"
   favicon: images/favicon.ico
+  site-url: https://hds-hub.cbdrh.med.unsw.edu.au
+  repo-url: https://github.com/hds-datathon-2024/hds-datathon-2024.github.io
   twitter-card:
     title: Health Data Science Datathon 2024 | UNSW Faculty of Medicine and Health
     description: A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data. Participants will develop a full data science pipeline with prizes awarded for the best submission.
   open-graph:
     title: Health Data Science Datathon 2024 | UNSW Faculty of Medicine and Health
     description: A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data. Participants will develop a full data science pipeline with prizes awarded for the best submission.
-  image: "https://quarto.org/quarto-dark-bg.jpeg"
+  image: "social-preview.png"
   back-to-top-navigation: true
   navbar:
     left:
