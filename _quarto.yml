@@ -5,6 +5,13 @@ project:
 website:
   title: ""
   favicon: images/favicon.ico
+  twitter-card:
+    title: Health Data Science Datathon 2024 | UNSW Faculty of Medicine and Health
+    description: A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data. Participants will develop a full data science pipeline with prizes awarded for the best submission.
+  open-graph:
+    title: Health Data Science Datathon 2024 | UNSW Faculty of Medicine and Health
+    description: A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data. Participants will develop a full data science pipeline with prizes awarded for the best submission.
+  image: "https://quarto.org/quarto-dark-bg.jpeg"
   back-to-top-navigation: true
   navbar:
     left:
