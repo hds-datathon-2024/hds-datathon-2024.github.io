@@ -19,7 +19,7 @@ You can learn more about EPIWATCH at [epiwatch.org/products](https://www.epiwatc
 
 ## Initial data release
 
-The EPIWATCH data will be released on Friday 29th November, one week ahead of the datathon. Access the data [here](google.com) UPDATE.
+The EPIWATCH data will be released on Friday 29th November, one week ahead of the datathon. 
 
 ## Live updates
 
