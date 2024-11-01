@@ -194,5 +194,12 @@
     "title": "Schedule",
     "section": "Datathon (In-person at UNSW)",
     "text": "Datathon (In-person at UNSW)\n\nDay 1: Thursday 5 December 2024\n\n\n\n08:30 - 09:00\nRegistration\n\n\n09:00 - 09:30\nWelcome and introduction to domain experts\n\n\n09:30 - 12:00\nTeams work on project\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 17:00\nTeams work on project\n\n\n17:00 - 19:00\nSocial at the Roundhouse\n\n\n\n\n\n\nDay 2: Friday 6 December 2024\n\n\n\n\n\n\n\n09:00 - 12:00\nTeams work on project\n\n\n12:00 - 12:30\nLunch\n\n\n12:30 - 14:00\nReal-time surveillance simulation\n\n\n14:00 - 16:00\nPresentations (7 mins presentation + 3 mins questions per team)\n\n\n16:00 - 16:30\nJury deliberation and drinks reception\n\n\n16:30 - 17:00\nPrize-giving and closing"
+  },
+  {
+    "objectID": "index.html#what-skills-do-i-need",
+    "href": "index.html#what-skills-do-i-need",
+    "title": "HDS Datathon 2024",
+    "section": "What skills do I need?",
+    "text": "What skills do I need?\nThe approach to the datathon challenge is open ended—it could be a sophisticated epidemic prediction model or a simple data summary. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel."
   }
 ]

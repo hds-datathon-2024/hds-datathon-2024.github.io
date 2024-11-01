@@ -40,6 +40,10 @@ The event will be in-person at UNSW, however there is also capacity for a limite
 
 A limited number of travel bursaries of up to $300 are available to support participants who wish to attend the event but are travelling from outside of Sydney. The registration form (linked below) includes an option to indicate whether you wish to apply for a travel bursary. Applicants will be asked to provide their enrolment status and the destination from where they will be travelling from.  
 
+## What skills do I need?
+
+The approach to the datathon challenge is open ended---it could be a sophisticated epidemic prediction model or a simple data summary. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.
+
 ## Where is it?
 
 The UNSW Kensington Campus, [Electrical Engineering Building (K-G17)](https://www.learningenvironments.unsw.edu.au/physical-spaces/electrical-engineering-bldg), Room G03
