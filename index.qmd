@@ -7,13 +7,29 @@ Can you predict the next <span class="animated-word">pandemic</span>?
 Health Data Science Datathon 2024 | UNSW Faculty of Medicine and Health
 :::
 
+::::::
+
+::: {.column-screen}
+
+::: {style="background-color: white; padding-top:30px; padding-bottom:20px; text-align: center;"}
+
+ <span class="animated-word">Registration is now closed</span>. To join the waiting list enter your name and email on [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=pM_2PxXn20i44Qhnufn7o8crRmdRK1VEsue1-USkaEpUMFUxTFc1UzlZWlFNREVNS05EU0FUSURBQy4u).
+
+:::
+
+:::
+
+<br>
+
+:::::: {.column-page-inset}
+
 <video autoplay loop muted playsinline width="100%" style="border-radius: 25% 25% 25% 25%;">
  <source src="images/AdobeStock_340747302.mp4" style="max-width: 100%;"></source>
 </video>
 
 ::::::
 
-<br><br>
+<br>
 
 ## What is it?
 
@@ -44,18 +60,6 @@ A limited number of travel bursaries of up to $300 are available to support part
 
 The approach to the datathon challenge is open ended---it could be a sophisticated epidemic prediction model or a simple data summary. At a minimum, you (or someone on your team) should be able to read in a dataset and do some basic data cleaning and summarisation using any software package of your choice. Effective teams combine members with different skill sets: epidemiological thinking is just as important as coding and algorithms. You also need someone on your team who can present and communicate your approach to the judging panel.
 
-## Where is it?
-
-The UNSW Kensington Campus, [Electrical Engineering Building (K-G17)](https://www.learningenvironments.unsw.edu.au/physical-spaces/electrical-engineering-bldg), Room G03
-
-<iframe width="100%" height="500px" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" src="https://use.mazemap.com/embed.html#v=1&config=unsw&zlevel=1&center=151.231616,-33.917484&zoom=17&campusid=111&sharepoitype=poi&sharepoi=1000919795&utm_medium=iframe" allow="geolocation"></iframe>
-<a href="https://www.mazemap.com/">Map by MazeMap</a>
-
-Room G03 is wheelchair accessible and ventilated with air conditioning. More information is available online [here](https://www.learningenvironments.unsw.edu.au/physical-spaces/electrical-engineering-bldg/k-g17-g03-electrical-engineering-g03).
-
-See the UNSW website for more information on how to get to and from campus: [inside.unsw.edu.au/campus-life/travel-options-get-and-unsw](https://www.inside.unsw.edu.au/campus-life/travel-options-get-and-unsw) 
-
-	
 ## The data
 
 Participants will analyse real-world data on infectious disease alerts from [EPIWATCH](https://www.epiwatch.org/about), UNSW’s AI-driven open-source outbreak observatory. Founded by global leader in infectious diseases, Professor Raina MacIntyre, EPIWATCH provides a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting. 
@@ -76,12 +80,12 @@ Lunch and morning tea and coffee will be provided for in-person participants. Di
 
 ## Registration
 
-Click on [this form link](https://forms.office.com/r/K2RQZeb1VF) to register by <span class="animated-word">Friday 15th November</span>. You are welcome to register as a team of 4 or as an individual. You can still apply as a team if you don't have a full team of 4. All team members must register. Individual applicants will be grouped into teams. Places are limited.
+ <span class="animated-word">Registration is now closed</span>. To join the waiting list enter your name and email on [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=pM_2PxXn20i44Qhnufn7o8crRmdRK1VEsue1-USkaEpUMFUxTFc1UzlZWlFNREVNS05EU0FUSURBQy4u).
 
 
 ## Contact
 
-For questions, information or accessibility queries please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a>. Accessibility requirements can also be noted in the [registration form](https://forms.office.com/r/K2RQZeb1VF). 
+For questions, information or accessibility queries please contact <a href="mailto:o.perezconcha@unsw.edu.au">Dr Oscar Perez Concha</a> from the Center for Big Data Research in Health, UNSW. Accessibility requirements can also be noted in the [registration form](https://forms.office.com/r/K2RQZeb1VF). 
 
 ::: {.oscar}
 
