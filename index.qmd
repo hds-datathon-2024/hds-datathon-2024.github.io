@@ -11,9 +11,9 @@ Health Data Science Datathon 2024 | UNSW Faculty of Medicine and Health
 
 ::: {.column-screen}
 
-::: {style="background-color: white; padding-top:30px; padding-bottom:20px; text-align: center;"}
+::: {style="background-color: white; padding-top:25px; padding-bottom:10px; text-align: center;"}
 
- <span class="animated-word">Registration is now closed</span>. To join the waiting list enter your name and email on [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=pM_2PxXn20i44Qhnufn7o8crRmdRK1VEsue1-USkaEpUMFUxTFc1UzlZWlFNREVNS05EU0FUSURBQy4u).
+ <span class="animated-word">Registration for the 2024 datathon is now closed!</span>
 
 :::
 
