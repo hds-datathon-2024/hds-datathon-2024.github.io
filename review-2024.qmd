@@ -12,9 +12,11 @@ link-external-icon: false
 
 <div style="font-size:1.2em;">
 
--   **51** Students 👩‍🎓
+-   **51** Students 👩‍🎓 from **12** different UNSW schools and research centres 🏫 
 
 -   **13** Teams 🤝
+
+-   **70,000** rows of EPIWATCH$^®$ surveillance data 📈
   
 -   **Two** EPIWATCH$^®$ infectious disease experts 🦠
 
@@ -45,10 +47,10 @@ On Day 2, finalist teams presented their work to a panel of judges.
 
 ## Announcing the winners
 
-![**Special mention:** Vaibhav Jha, Palak Kapuriya, Siddharth Choudhury, Professor David Simar (UNSW Medicine and Health), Vansh Jain, <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-294.jpg)
+![**Special mention:** Vaibhav Jha, Palak Kapuriya, Siddharth Choudhury, Professor David Simar (Deputy Dean Research Operations - Faculty of Medicine and Health), Vansh Jain, <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-294.jpg)
 
 
-![**Runners-up** [L-R]: Usha Kaur Khalsa, Ida Made Hrisikesa Wiweka, Professor David Simar (UNSW Medicine and Health), Zhiyuan Wang, (team member Haley Li not pictured) <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-296.jpg)
+![**Runners-up** [L-R]: Usha Kaur Khalsa, Ida Made Hrisikesa Wiweka, Professor David Simar (Deputy Dean Research Operations - Faculty of Medicine and Health), Zhiyuan Wang, (team member Haley Li not pictured) <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-296.jpg)
 
 ![**Runners-up** [L-R]: Christopher Leung (online), Harshita Punjabi, Neil Dadhich, Arnav Raina, Arya Ahluwalia <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2024/Datathon2024_UNSW_Credit_CassandraHannagan-300.jpg)
 
