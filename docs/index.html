@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <meta property="og:title" content="Health Data Science Datathon 2024">
 <meta property="og:description" content="A two-day datathon where teams will work together to analyse real-world infectious disease monitoring data.">
@@ -133,9 +162,14 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-past-datathons">    
         <li>
-    <a class="dropdown-item" href="./review.html"><i class="bi bi-capsule-pill" role="img">
+    <a class="dropdown-item" href="./review-2023.html"><i class="bi bi-capsule-pill" role="img">
 </i> 
  <span class="dropdown-text">2023</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./review-2024.html"><i class="bi bi-virus" role="img">
+</i> 
+ <span class="dropdown-text">2024</span></a>
   </li>  
     </ul>
   </li>
@@ -194,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="column-screen">
 <div style="background-color: white; padding-top:25px; padding-bottom:10px; text-align: center;">
-<p><span class="animated-word">Registration for the 2024 datathon is now closed!</span></p>
+<p>Check out a summary and photographs from the 2024 datathon <span class="animated-word"><a href="review-2024.html">here</a></span>!</p>
 </div>
 </div>
 <p><br></p>
@@ -237,7 +271,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="the-data" class="level2">
 <h2 class="anchored" data-anchor-id="the-data">The data</h2>
-<p>Participants will analyse real-world data on infectious disease alerts from <a href="https://www.epiwatch.org/about">EPIWATCH</a>, UNSW’s AI-driven open-source outbreak observatory. Founded by global leader in infectious diseases, Professor Raina MacIntyre, EPIWATCH provides a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting.</p>
+<p>Participants will analyse real-world data on infectious disease alerts from <a href="https://www.epiwatch.org/about">EPIWATCH<span class="math inline">\(^®\)</span></a>, UNSW’s AI-driven open-source outbreak observatory. Founded by global leader in infectious diseases, Professor Raina MacIntyre, EPIWATCH<span class="math inline">\(^®\)</span> provides a wide variety of data generated around the world 24/7 through its AI-driven data collection including news casts, social platforms and medical reporting.</p>
 </section>
 <section id="the-datathon" class="level2">
 <h2 class="anchored" data-anchor-id="the-datathon">The datathon</h2>
@@ -250,7 +284,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="the-main-event-thursday-5th-and-friday-6th-december" class="level3">
 <h3 class="anchored" data-anchor-id="the-main-event-thursday-5th-and-friday-6th-december">The main event (Thursday 5th and Friday 6th December)</h3>
-<p>You will work with team to develop and implement a data science pipeline to analyse the EPIWATCH data with the aim of predicting infectious disease outbreaks. Your approach could be a statistical or machine learning model, a data visualisation, or even a dashboard combining multiple insights. On the second day you will have a chance to test your approach on new data. To emulate real-time surveillance we will release daily data in 5 minute increments: your aim is to notify authorities of the next outbreak before it gets out of control. There is no restriction on choice of software or analytic approach. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform.</p>
+<p>You will work with team to develop and implement a data science pipeline to analyse the EPIWATCH<span class="math inline">\(^®\)</span> data with the aim of predicting infectious disease outbreaks. Your approach could be a statistical or machine learning model, a data visualisation, or even a dashboard combining multiple insights. On the second day you will have a chance to test your approach on new data. To emulate real-time surveillance we will release daily data in 5 minute increments: your aim is to notify authorities of the next outbreak before it gets out of control. There is no restriction on choice of software or analytic approach. At the end of the day, each team will present their research question and solution. Prizes will be awarded to the best submissions, evaluated by a panel of experts. Selected submissions may be included in a showcase and published on the CBDRH website or other suitable platform.</p>
 <p>Lunch and morning tea and coffee will be provided for in-person participants. Dietary requirements can be noted in the registration form.</p>
 </section>
 </section>

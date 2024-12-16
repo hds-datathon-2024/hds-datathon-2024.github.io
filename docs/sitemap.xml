@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hds-datathon-2024.github.io/data.html</loc>
-    <lastmod>2024-10-30T06:20:58.112Z</lastmod>
+    <lastmod>2024-12-11T01:43:56.858Z</lastmod>
   </url>
   <url>
     <loc>https://hds-datathon-2024.github.io/code-of-conduct.html</loc>
     <lastmod>2024-10-30T06:23:03.757Z</lastmod>
   </url>
   <url>
-    <loc>https://hds-datathon-2024.github.io/index.html</loc>
-    <lastmod>2024-12-04T19:05:28.408Z</lastmod>
+    <loc>https://hds-datathon-2024.github.io/review-2024.html</loc>
+    <lastmod>2024-12-16T00:18:29.545Z</lastmod>
   </url>
   <url>
-    <loc>https://hds-datathon-2024.github.io/review.html</loc>
+    <loc>https://hds-datathon-2024.github.io/review-2023.html</loc>
     <lastmod>2024-09-20T03:04:14.115Z</lastmod>
   </url>
   <url>
@@ -23,6 +23,10 @@
   <url>
     <loc>https://hds-datathon-2024.github.io/judging-criteria.html</loc>
     <lastmod>2024-09-20T04:59:33.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hds-datathon-2024.github.io/index.html</loc>
+    <lastmod>2024-12-16T00:27:19.325Z</lastmod>
   </url>
   <url>
     <loc>https://hds-datathon-2024.github.io/about.html</loc>

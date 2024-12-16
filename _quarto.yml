@@ -37,7 +37,10 @@ website:
         menu:
           - text: '2023'
             icon: capsule-pill
-            href: review.qmd
+            href: review-2023.qmd
+          - text: '2024'
+            icon: virus
+            href: review-2024.qmd
     right:
       - text: Information for sponsors
         icon: info-circle
