@@ -5,7 +5,7 @@ link-external-icon: false
 ---
 
 ::: column-screen-inset
-![Analysing the Antiretroviral Therapy in HIV dataset](images/Lo%20Res/Datathon_UNSW_Credit_CassandraHannagan-42.jpg)
+![Analysing the Antiretroviral Therapy in HIV dataset](images/LoRes2023/Datathon_UNSW_Credit_CassandraHannagan-42.jpg)
 :::
 
 ## Key figures
@@ -29,17 +29,17 @@ link-external-icon: false
 
 The first CBDRH Health Data Science datathon took place on Friday 26th May 2023. This event saw the participation of 22 HDS students working in six teams, five on campus and one hybrid online/on-campus team. The event focused on the [Antiretroviral Therapy in HIV dataset](data.qmd), and teams were challenged to pose a research question and develop a solution using their health context expertise and analytic skills.
 
-![Health Data Science students in action 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/Lo Res/Datathon_UNSW_Credit_CassandraHannagan-81.jpg)
+![Health Data Science students in action 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2023/Datathon_UNSW_Credit_CassandraHannagan-81.jpg)
 
 Five experts were on hand to guide the teams, aiding them in crafting and executing their research questions and proposed solutions effectively. This included applied researchers with content expertise in HIV medications and machine learning, and Health Informaticians from NSW Health Sydney Local Health District
 
-![ Consulting with machine learning experts. 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/Lo Res/Datathon_UNSW_Credit_CassandraHannagan-53.jpg) 
+![ Consulting with machine learning experts. 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2023/Datathon_UNSW_Credit_CassandraHannagan-53.jpg) 
 
 
 The datathon wasn't just about coding and data; it was also about enjoyment and camaraderie. The teams enjoyed good food and had loads of fun. The presentations from all teams were highly engaging, with everyone putting into practice the technical coding skills and health context expertise from the HDS program.
 
 
-![Students presenting their work 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/Lo Res/Datathon_UNSW_Credit_CassandraHannagan-170.jpg)
+![Students presenting their work 💛 <br> <span style="font-size:0.8em">Credit: [Cassandra Hannagan](https://www.cassandrahannagan.com/) </span>](images/LoRes2023/Datathon_UNSW_Credit_CassandraHannagan-170.jpg)
 
 
 The day culminated with a prize ceremony to acknowledge the hard work from all of the teams, and of course announce the winners! The winning team's breakthrough came from using neural networks to predict the success of current ART drug combinations for patients with HIV. The second-place team used survival analysis to answer the question, "What drug combination is most effective at achieving viral suppression?" The third team investigated the impact of Dolutegravir (DTG) as a third agent drug on time to viral suppression among active HIV patients under antiretroviral therapy (ART).
@@ -139,10 +139,10 @@ Explore the images from the day below. Credit for all images to [Cassandra Hanna
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));grid-gap: .5em; inline-size: 100%;"}
 ```{r, results='asis', echo=FALSE, warning=FALSE, message=FALSE}
-nPics <- length(list.files(here::here("images/Lo Res")))
+nPics <- length(list.files(here::here("images/LoRes2023")))
 
 for (i in 1:nPics) {
-  cat("![](images/Lo Res/Datathon_UNSW_Credit_CassandraHannagan-", i, ".jpg){group='my-gallery'}\n\n", sep='')
+  cat("![](images/LoRes2023/Datathon_UNSW_Credit_CassandraHannagan-", i, ".jpg){group='my-gallery'}\n\n", sep='')
 }
 ```
 :::
